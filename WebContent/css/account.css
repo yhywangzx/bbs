@@ -1,0 +1,205 @@
+@CHARSET "UTF-8";
+a{
+	text-decoration: none;
+	color: black;
+}
+#acmain{
+	width: 1200px;
+	margin: 0px auto;
+}
+#actotal{
+	background-color: #ffa500;
+	height: 30px;
+}
+.acwl{
+	float: left;
+	padding-left: 10px;
+	margin-top: 5px
+}
+.aczx{
+	float: right;
+	padding-right: 10px;
+	margin-top: 5px
+}
+.clear{
+	clear: both;
+}
+#acleft{
+	float: left;
+	width: 20%;
+	background-color:red;
+	height: 600px;
+	font-size: 15pt;
+}
+#acright{
+	float: left;
+	width: 80%;
+	background-color: #ffc0cb;
+	height: 600px;
+}
+#acbody{
+	margin-top: 1px;
+	height: 600px;
+}
+#acbody ul{
+	list-style: none;
+	padding-left: 0px;
+	margin-top: 10px
+}
+#acbody li{
+	margin-top: 3px;
+	background-color: green;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+#acbody a{
+	display: block;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	text-align: center;
+}
+#acbody a:HOVER {
+	background-color: #ffa500;
+	
+}
+#acclast{
+	background-color: #ffa500;
+	margin-top: 1px;
+	height: 25px;
+	text-align: center;
+	padding-top: 5px
+}
+
+
+
+
+
+
+
+#newsmain{
+	width: 800px;
+	margin: 0px auto;
+	background-color: #22dddd;
+	height: 550px;
+	
+}
+#newstt{
+	height:30px;
+	padding-top:10px;
+	padding-left: 100px;
+}
+#newstext{
+	margin-left:30px;
+	width: 400px;
+	
+}
+#newsbutton{
+	width: 100px;
+	margin-left: 30px
+}
+#table{
+	text-align:center;
+	border: solid 1px black;
+	margin: auto;
+	width: 700px;
+	border-collapse: collapse;
+}
+.tr1{
+	background-color: #09f797;
+	font-size: 10pt;
+	font-family: '黑体';
+	height: 25px;
+}
+.tr2{
+	background-color: #2292dd;
+	font-size: 10pt;
+	font-family: '微软雅黑';
+	height: 25px;
+}
+.tr3{
+	background-color: #d5912b;
+	font-size: 10pt;
+	font-family: '微软雅黑';
+	height: 25px;
+}
+#newsbody{
+	background-color: #FFa500;
+	height: 25px;
+	margin-top: 10px;
+	width: 690px;
+	padding-left:10px;
+	margin-left: 50px;
+	padding-top: 10px;
+	font-size: 11pt;
+}
+#newsbody a:HOVER {
+	background-color: red;
+}
+#ys{
+	text-align: center;
+	margin-top: 10px;
+}
+#tbl{
+	margin-top: 5px;
+	text-align: center;
+}
+#tab{
+	margin: auto;
+	width: 30%;
+	font-size: 11pt;
+}
+#newsaddmain{
+	width: 800px;
+	margin: 0px auto;
+}
+#addtt{
+	padding-top:80px;
+	padding-left: 20px;
+}
+.addtital{
+	width: 400px;
+	margin-left: 10px
+}
+#newsaddbd{
+	padding-left: 20px;
+}
+.newsaddbody{
+	width: 400px;
+	height: 360px;
+	margin-left: 10px;
+	margin-top: 20px
+}
+#newsaddbutton{
+	margin-top: 25px;
+	padding-left: 66px
+}
+.newsaddinfo{
+	width:50px;
+	margin-left:50px;
+	float: left
+}
+.newsaddback{
+	width: 66px;
+	height:30px;
+	margin-left: 50px
+}
+.pwdp{
+	color: red;
+}
+
+#newseditmain{
+	width: 800px;
+	margin: 0px auto;
+}
+#addedit{
+	padding-top:80px;
+	padding-left: 20px;
+}
+#newseditbd{
+	padding-left: 20px;
+}
+#newseditbutton{
+	margin-top: 25px;
+	padding-left: 66px
+}

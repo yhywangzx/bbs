@@ -1,0 +1,231 @@
+@CHARSET "UTF-8";
+a{
+	text-decoration: none;
+	color: black;
+}
+
+
+#main{
+	width: 1200px;
+	margin: 0px auto;
+}
+#total{
+	background-color:#ffb6c1;
+	height: 50px;
+}
+.wel{
+	float: left;
+	padding-left: 20px;
+	margin-top: 15px;
+}
+.zc{
+	float: right;
+	padding-right: 20px;
+	margin-top: 15px;
+}
+#tital{
+	background-color: #f08080;
+	height: 50px;
+	margin-top: 3px
+}
+#body{
+	background-color: #66cdaa;
+	height: 500px;
+	margin-top: 3px;
+}
+#copyright{
+	background-color: #00bfff;
+	text-align: center;
+	margin-top: 3px;
+	height: 25px;
+	padding-top: 3px;
+}
+#tb{
+	padding-top:20px;
+	height: 400px;
+	
+}
+#table{
+	text-align:center;
+	border: solid 1px black;
+	margin: auto;
+	width: 80%;
+	border-collapse: collapse;
+}
+.tr1{
+	background-color: #09f797;
+	font-size: 10pt;
+	font-family: '黑体';
+	height: 25px;
+}
+.tr2{
+	background-color: #2292dd;
+	font-size: 10pt;
+	font-family: '微软雅黑';
+	height: 25px;
+}
+.tr3{
+	background-color: #d5912b;
+	font-size: 10pt;
+	font-family: '微软雅黑';
+	height: 25px;
+}
+#ys{
+	text-align: center;
+	margin-top: 10px;
+}
+#tbl{
+	margin-top: 5px;
+	text-align: center;
+}
+#tab{
+	margin: auto;
+	border: solid 1px red;
+	width: 20%;
+}
+#regmain{
+	width: 1200px;
+	margin-left:8%;
+	margin-top:2%;
+	height:90%;
+	background-image: url('../images/gao.jpeg.jpg');
+	position: absolute;
+
+	
+}
+
+#rgtable{
+	margin-left:66%;
+	margin-top:15%;
+}
+.rgtr1{
+
+	padding-top:10px;
+	font-family: '微软雅黑';
+}
+.rgtr2{
+	text-align: right;
+	font-size: 11pt;
+}
+.rgtr3{
+	text-align: center
+}
+.rgt{
+	display: none;
+	font-size: 10pt;
+	color: red;
+}
+#resgb{
+	margin-left: 68%;
+	margin-top: 20px;
+}
+
+
+
+#loginmain{
+	width: 1200px;
+	margin-left:100px;
+	margin-top:100px;
+	height:72%;
+	background-image: url('../images/gyy.jpg');
+	position: absolute;
+}
+#logintb{
+	margin-top: 20px;
+	margin-left: 200px
+}
+.loginbut{
+
+	float: left;
+	margin-left: 50px;
+	width: 50px;
+}
+#loginbt{
+	margin-left: 222px;
+	margin-top: 20px;
+}
+
+#newmain{
+	width: 1200px;
+	margin: 0px auto;
+
+}
+#newstital{
+	background-color: #ffa500;
+	text-align: center;
+	height: 80px;
+	padding-top: 1px;
+	margin-top: 10px;
+	
+	
+}
+#newstime{
+	background-color: red;
+	height: 20px;
+	margin-top: 3px;
+}
+.newsp{
+	float: left;
+	width:50%;
+	font-size: 8pt;
+	padding-top: 2px;
+	text-align: center;
+
+}
+.newst{
+	float: left;
+	width:50%;
+	text-align: left;
+	font-size: 8pt;
+	padding-top: 2px;
+}
+.clear{
+	clear: both;
+}
+#newsbody{
+	background-color: #808000;
+	height: 300px;
+	margin-top: 3px;
+}
+#newsline{
+	background-color: #259225;
+	margin-top: 3px;
+	height: 3px
+}
+#newstk{
+	background-color: #FFA500;
+	margin-top: 3px;
+	height: 22px;
+	padding-left: 5px;
+	padding-top: 2px;
+}
+.newstalk{
+	background-color: #008000;
+	margin-top: 2px;
+	height: 20px;
+	padding-left: 30px
+}
+#newslast{
+	background-color: #ffa500;
+	height: 25px;
+	padding-left: 10px;
+	padding-top: 5px;
+	
+	
+}
+#newsanswer{
+	width: 400px;
+	margin-left: 5px
+}
+#newsbutton{
+	width: 100px;
+	margin-left: 5px
+}
+#newsviewans{
+	border:1px solid gray;
+	height:20px;
+	background-color: #EbEbEb;
+	text-align: center;
+	font-size: 10pt;
+	margin-left:50px;
+}
